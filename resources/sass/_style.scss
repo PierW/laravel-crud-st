@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+}
+
+header{
+  background-color: $purple;
+}
+
+table {
+  margin: auto;
+  width: 60%;
+  tr:nth-child(odd){
+    background-color: #cecece50;
+  }
+}
+
+footer{
+  background-color: $indigo;
+}
